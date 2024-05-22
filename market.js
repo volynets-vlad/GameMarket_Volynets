@@ -223,7 +223,7 @@ if (itemsDiv) {
     itemsArray
         .forEach((item, index) => {
             itemsDiv.innerHTML +=
-            `
+                `
             <!==Блок окремого товару-->
             <div class="item">
 
@@ -231,13 +231,13 @@ if (itemsDiv) {
 
                 <!--Блок зображення товару-->
                 <div class="item-image">
-                    <img src="${item.image}" class="item-image"
+                    <img src="${item.image}" class="item-image">
                 </div>
     
                 <!--Блок з оплатою частинами-->
                 <div class="parts-pay">
                     <div><img scr="img-market/mono-lapka.png" alt="">${item.mono}</div>
-                    <div><img src="img-market/pb.jpg" alt="">${item.pd}</div>
+                    <div><img src="img-market/pb.jpg" alt="">${item.pb}</div>
                 </div>
 
                 <!--Блок ціни-->
