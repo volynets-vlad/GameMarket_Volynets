@@ -22,11 +22,11 @@ body {
     position: absolute;
     left: 780px;
     top: 500px;
-    background-color: rgb(224, 163, 139);
-    padding: 70px 228px;
-    border: 10px solid rgb(206, 90, 90);
+    background-color: rgb(0, 128, 122);
+    padding: 50px 100px;
+    border: 10px solid rgb(0, 4, 255);
     border-radius: 5px;
-    color: rgb(255, 0, 149);
+    color: rgb(230, 191, 191);
     font-size: 90px;
     cursor: pointer;
 }
@@ -34,11 +34,11 @@ body {
     position: absolute;
     left: 780px;
     top: 777px;
-    background-color: rgb(0, 119, 255);
-    padding: 134px 1488px;
-    border: 10px solid rgb(255, 166, 0);
+    background-color: rgb(0, 128, 122);
+    padding: 50px 100px;
+    border: 10px solid rgb(0, 4, 255);
     border-radius: 5px;
-    color: rgb(160, 131, 0);
+    color: rgb(230, 191, 191);
     font-size: 90px;
     cursor: pointer;
 }
