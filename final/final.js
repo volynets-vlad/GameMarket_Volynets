@@ -1,8 +1,8 @@
 
 //Перевірка підключеного файлу скриптів
 console.log('Перевірка підключеного файлу скриптів market.js');
-
-
+// Отримання елементу з ідентифікатором items 
+let itemsDiv = document.getElementById("items");
 
 
 
@@ -186,7 +186,6 @@ let itemsArray = [
     },
 ]
 console.log(itemsArray)
-let itemsDiv = document.getElementById("items");
 
 //Перевірка існування знайденого блоку
 /*if (itemsDiv) {
