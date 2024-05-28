@@ -80,8 +80,8 @@ let itemsArray = [
         project_form: "https://forms.gle/cz6ZfWN7UFPUgwFC7?authuser=0",
         gamemarket_github: "https://github.com/Artem4ikGAletko/GameMarket_Haletko",
         gamemarket_demo: "https://artem4ikgaletko.github.io/GameMarket_Haletko/",
-        gamemarket_market_page: "",
-        gamemarket_final_page: "",
+        gamemarket_market_page: "https://artem4ikgaletko.github.io/GameMarket_Haletko/market.html?authuser=0",
+        gamemarket_final_page: "https://artem4ikgaletko.github.io/GameMarket_Haletko/final/final.html?authuser=0",
         img_author: "Галетко.jpg",
         img_game: "Галеткоgame.png"
     },
